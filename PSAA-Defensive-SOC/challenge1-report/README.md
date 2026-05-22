@@ -82,3 +82,4 @@ Dynamic Analysis Findings
 	Submitted the email artifact's SHA256 hash (91fc4aa2257b9c69684ac2bbc220ed7556c3db68cf725812ce365ef3febc8604) to the corporate EDR blocklist.
 
 Challenge screen shot:
+![Phishing Challenge 1 Screenshot](phishing_challenge_1_screenshot.png)
