@@ -1,7 +1,7 @@
 # Incident Report: Phishing Analysis Challenge 1
 
 Challenge File:
-01_Phishing_Analysis/Challenges/challenge1.eml
+01_Phishing_Analysis/Challenges/challenge1-phishin-emails.eml
 
 ## 📋 Artifact Discovery & Headers
 
